@@ -1,0 +1,19 @@
+{
+	"name": "ps/devutils",
+	"type": "typo3-cms-extension",
+	"description": "Utility classes for development",
+	"authors": [
+		{
+			"name": "Pawe\u0142 Schwa\u0142kowski",
+			"role": "Developer"
+		}
+	],
+	"require": {
+		"typo3/cms-core": "^8.7.1"
+	},
+	"autoload": {
+		"psr-4": {
+			"PS\\Devutils\\": "Classes"
+		}
+	}
+}

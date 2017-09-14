@@ -1,0 +1,39 @@
+{
+	"modules": [],
+	"properties": {
+		"backendModules": [],
+		"description": "Utility classes for development",
+		"emConf": {
+			"category": "distribution",
+			"custom_category": "",
+			"dependsOn": "typo3 => 8.7.0-8.7.99\n",
+			"disableLocalization": true,
+			"disableVersioning": false,
+			"skipGenerateDocumentationTemplate": false,
+			"sourceLanguage": "en",
+			"state": "alpha",
+			"targetVersion": "8.7.0-8.7.99",
+			"version": "1.0.0"
+		},
+		"extensionKey": "devutils",
+		"name": "Development utilities",
+		"originalExtensionKey": "t3_utils",
+		"originalVendorName": "PS",
+		"persons": [
+			{
+				"company": "",
+				"email": "p.schwalkowski@gmail.com",
+				"name": "Pawe\u0142 Schwa\u0142kowski",
+				"role": "Developer"
+			}
+		],
+		"plugins": [],
+		"vendorName": "PS"
+	},
+	"wires": [],
+	"log": {
+		"last_modified": "2017-09-14 07:58",
+		"extension_builder_version": "8.7.0",
+		"be_user": " (1)"
+	}
+}
